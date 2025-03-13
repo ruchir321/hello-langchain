@@ -1,0 +1,10 @@
+# folders
+huggingface-nlp/**/
+
+
+# files
+langchain/*.pdf
+
+*.env
+
+
